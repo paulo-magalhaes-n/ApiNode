@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1, 
+        "name": "Able Center"
+    },
+    {
+        "id": 2, 
+        "name": "ABS Brasil"
+    },
+    {
+        "id": 3, 
+        "name": "Actionline"
+    },
+    {
+        "id": 4, 
+        "name": "Adedo Contact Center"
+    }
+    ,
+    {
+        "id": 5, 
+        "name": "AeC"
+    }
+    ,
+    {
+        "id": 6, 
+        "name": "Alert Brasil Contact Center"
+    }
+    ,
+    {
+        "id": 7, 
+        "name": "Algar Tecnologia"
+    }
+    ,
+    {
+        "id": 8, 
+        "name": "Almaviva do Brasil"
+    }
+    ,
+    {
+        "id": 9, 
+        "name": "Ask! Cia. Nacional de Call Center"
+    }
+    ,
+    {
+        "id": 10, 
+        "name": "Atento"
+    }
+]
